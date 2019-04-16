@@ -1,0 +1,169 @@
+*, h2, h3{
+    font-family: 微软雅黑;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a:focus {
+    text-decoration: none;
+}
+.containerbtn {
+    margin: 0 auto;
+}
+.horizental-item{
+	float: left;
+}
+html{
+	height: 100%;
+}
+body{
+	height: 100%;
+}
+#pass-phoenix-list-login{
+	width:224px;
+}
+.pass-login-pop-img, .pass-login-pop-img img{
+  height: 362px !important;
+ 
+}
+
+#ad {
+    width: 100%;
+    height: 0;
+}
+.full_height{
+	height: 100%;
+	min-height: 850px;
+}
+.page{
+	height: 100%;
+}
+
+#page_home{
+	background-color: rgb(227, 118, 31);
+}
+
+
+.ex_footer{
+	position: absolute;
+	top: 750px;
+	text-align: center;
+	width: 100%;
+	height: 120px;
+}
+
+#dash{
+	margin: 0 auto;
+	height: 2px;
+	width: 800px;
+	background: url('../img/dot.png');
+	position: relative;
+	top: 25px;
+}
+#progress{
+	margin: 0 auto;
+	height: 2px;
+	width: 150px;
+	left: -325px;
+	background: white;
+	position: relative;
+	top: 23px;
+}
+#navbtns{
+	width: 800px;
+	position: relative;
+	z-index: 1;
+}
+
+.navbtn{
+	width: 100px;
+	float: left;
+	margin-left: 25px;
+	margin-right: 25px;
+	text-align: center;
+	display: inline-block;
+	line-height: 50px;
+	color: white;
+}
+.navbtn a:hover{
+	color: white;
+}
+.navbtn img{
+	width: 50px;
+}
+
+#page_intro{
+	background-color: rgb(232, 227, 22);
+}
+
+#page_gift{
+	background-color: rgb(33, 166, 210);
+}
+
+
+
+#page_feedback{
+	background-color: rgb(134, 196, 87);
+}
+
+
+#page_related{
+	background-color: rgb(211, 59, 68);
+}
+.example{
+	position:absolute;
+	top:50%;
+	left:50%;
+	width:800px;
+	height:500px;
+	margin-left:-400px;
+	margin-top:-350px;
+}
+.example div{
+	float:left;
+	width:300px;
+	height:300px;
+	border-radius:50%;
+	border:1px solid #FFFFFF;
+	margin:125px 48px;
+	overflow: hidden;
+}
+.left1 img{
+	margin-left:-35px;
+}
+.right1 img{
+	width: 170%;
+}
+.left2 img{
+	width: 130%;
+}
+.right2 img{
+	width: 130%;
+}
+.left3 img{
+	width: 130%;
+}
+.right3 img{
+	width: 100%;
+	margin-top:-80px;
+}
+.left4 img{
+	width: 100%;
+	margin-top:-80px;
+}
+.right4 img{
+	width: 100%;
+	margin-top:-110px;
+}
+.left5 img{
+	width: 100%;
+	margin-top:-80px;
+}
+.right5 img{
+	width: 100%;
+	margin-top:-110px;
+}
